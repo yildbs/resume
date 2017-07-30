@@ -1,4 +1,8 @@
 # 윤일로 (YOON ILLO)
+- 현재 전문연구요원 (2017-02-27~)
+
+## Location
+Seoul, Korea
 
 ## Contacts
 - 이메일: yildbs@gmail.com
@@ -17,10 +21,9 @@
 ## Skills
 |	Skill	|					  	 	|
 | :-------: | :-----------------------:	|
-| Language  | C, C++, CUDA, Python3		|
+| Language  | C++, CUDA, Python3		|
 | OS		| Linux(Ubuntu), Windows	|
 | Fields	| Compution Vision 			|
-| Framework | Tensorflow, Hadoop		|
 
 ## 관심 분야
 - 컴퓨터 비전
