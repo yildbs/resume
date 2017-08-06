@@ -1,5 +1,6 @@
 # 윤일로 (YOON ILLO)
 - 현재 전문연구요원 (2017-02-27~)
+- 병렬소프트웨어설계 전공
 
 ## Location
 Seoul, Korea
