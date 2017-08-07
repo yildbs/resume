@@ -28,6 +28,10 @@ Seoul, Korea
 	- 전체 이미지 프레임에서 여러 개의 원하는 영역의 이미지를 일정 크기로 리사이징 하는 클래스 구현
 	- 개발환경: VS2013
 
+- [SearchImageWithPython](https://github.com/yildbs/SearchImageWithPython)
+	- 여러 이미지에서 특징점을 추출하고 특징점을 비교하여 서브이미지(crop된 이미지)를 입력하면 원본 이미지를 검색하는 간단한 프로젝트
+	- 개발환경: pycharm
+
 ## Skills
 |	Skill	|					  	 	|
 | :-------: | :-----------------------:	|
