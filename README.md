@@ -9,7 +9,6 @@ Seoul, Korea
 ## Contacts
 - 이메일: yildbs@gmail.com
 - 블로그: https://imloil.blogspot.kr
-- 전화번호: 010-9657-7795
 
 ## Projects
 - [Deep-Learning-On-C-with-cuDNN](https://github.com/yildbs/Deep-Leaning-On-C-with-cuDNN)
