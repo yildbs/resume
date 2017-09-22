@@ -1,6 +1,7 @@
 # 윤일로 (YOON ILLO)
-- 현재 전문연구요원 (2017-02-27~)
-- 병렬소프트웨어설계 전공
+- 2015~2017 병렬소프트웨어설계 전공
+- 2017~2020 (주)다누시스 전문연구요원(2017.02.27~)
+- 2017~ 	CCTV 영상 분석을 위한 딥러닝 객체 분류기(on C++) 개발
 
 ## Location
 Seoul, Korea
@@ -8,6 +9,7 @@ Seoul, Korea
 ## Contacts
 - 이메일: yildbs@gmail.com
 - 블로그: https://imloil.blogspot.kr
+- 전화번호: 010-9657-7795
 
 ## Projects
 - [Deep-Learning-On-C-with-cuDNN](https://github.com/yildbs/Deep-Leaning-On-C-with-cuDNN)
