@@ -3,8 +3,7 @@
 - 2017~		(주)다누시스 전문연구요원(2017.02.27-)
 -  2017.12. CCTV 영상 분석을 위한 딥러닝 객체 분류기(on C++) 개발
 -  2018.01. 한국인터넷진흥원(KISA) 지능형 CCTV 인증(배회, 침입, 유기) 획득
--  2017.04. DanuNet 개발: C++ 딥러닝 프레임워크(Yolo, LeNet..)
--           DanuNetTrainer 개발: 딥러닝 학습 프레임워크(for DanuNet)
+-  2017.04. DanuNet 개발: C++ 딥러닝 프레임워크(Yolo, LeNet..) + DanuNetTrainer 개발: 딥러닝 학습 프레임워크(for DanuNet)
 
 ## Location
 Seoul, Korea
