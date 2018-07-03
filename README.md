@@ -1,11 +1,12 @@
 # 윤일로 (YOON ILLO)
 - 2015~2017 병렬소프트웨어설계 전공(http://parlab.uos.ac.kr)
-- 2017~		(주)다누시스 전문연구요원(2017.02.27-)
--  2017.12. CCTV 영상 분석을 위한 딥러닝 객체 분류기(LeNet on C++) 개발 
--  2018.01. 한국인터넷진흥원(KISA) 지능형 CCTV 인증(배회, 침입, 유기) 획득
--  2018.04. DanuNetTrainer 개발: 딥러닝 학습 프레임워크(for DanuNet)
--  2018.04. DanuNet 개발: C++ 딥러닝 프레임워크(Yolo, GoogLeNet etc. implemented)
--  2018.06. 한국인터넷진흥원(KISA) 지능형 CCTV 인증(배회, 침입, 쓰러짐) 획득
+- 2017.02. (주)다누시스 전문연구요원(2017.02.27-)
+- 2017.12. CCTV 영상 분석을 위한 딥러닝 객체 분류기(DeepLearningOnC: LeNet implemented) 개발 
+- 2018.01. 한국인터넷진흥원(KISA) 지능형 CCTV 인증(배회, 침입, 유기) 획득
+- 2018.04. DanuNetTrainer 개발: 딥러닝 학습 프레임워크(for DanuNet)
+- 2018.04. DanuNet 개발: C++ 딥러닝 프레임워크(Yolo, GoogLeNet, etc. implemented)
+- 2018.06. 한국인터넷진흥원(KISA) 지능형 CCTV 인증(배회, 침입, 쓰러짐) 획득
+- 2018.07. 한국인터넷진흥원(KISA) 방위산업분야 지능형 CCTV 인증(배회, 침입, 유기, 폭력) 획득
 
 ## Location
 Seoul, Korea
